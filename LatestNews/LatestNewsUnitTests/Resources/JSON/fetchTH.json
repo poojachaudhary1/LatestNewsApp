@@ -1,0 +1,33 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Cgtn.com"
+            },
+            "author":"",
+            "title":"Hong Kong, Australian varsities discover T cells effective against Omicron - CGTN","description":"A research done by the Hong Kong University of Science and Technology (HKUST) and the University of Melbourne has revealed that T cells, one of the body's key defenses against COVID-19, are expected to be effective in mounting an immune response against Omicr…",
+            "url":"https://news.cgtn.com/news/2022-01-04/HK-Australian-varsities-discover-T-cells-effective-against-Omicron-16xPQCSkNbi/index.html",
+            "urlToImage":"https://news.cgtn.com/news/2022-01-04/HK-Australian-varsities-discover-T-cells-effective-against-Omicron-16xPQCSkNbi/img/cad796b6fa05484c96f0d1327b352176/cad796b6fa05484c96f0d1327b352176-750.jpeg",
+            "publishedAt":"2022-01-04T08:02:46Z",
+            "content":"A research done by the Hong Kong University of Science and Technology (HKUST) and the University of Melbourne has revealed that T cells, one of the body's key defenses against COVID-19, are expected … [+799 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PerthNow"
+            },
+            "author":"Natalie Richards",
+            "title":"Cody Simpson’s sister Alli seriously injured in New Year’s Eve swimming pool accident - PerthNow","description":"Reality star Alli Simpson says she is grateful to survive a nightmare accident in a swimming pool. And to make matters worse, she also has COVID-19.",
+            "url":"https://www.perthnow.com.au/entertainment/confidential/cody-simpsons-sister-alli-seriously-injured-in-new-years-eve-swimming-pool-accident-c-5182169",
+            "urlToImage":"https://images.perthnow.com.au/publication/C-5182169/dc43d03858db4adc24fe9f23c5022a21074992d9-16x9-x0y102w1080h608.jpg?imwidth=1200",
+            "publishedAt":"2022-01-04T07:09:00Z",
+            "content":"Reality star Alli Simpson says she is grateful to survive a horror New Years Eve accident in a swimming pool which left her with serious neck injuries.\r\nThe actress and sister of singer and professio… [+2349 chars]"
+        }
+    ]
+}
+
+
+

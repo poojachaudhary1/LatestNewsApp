@@ -1,0 +1,50 @@
+//
+//  TopHeadlinePresentation.swift
+//  LatestNews
+//
+//  Created by Pooja on 2/1/22.
+//
+
+import Foundation
+import RxDataSources
+
+final class TopHeadlinePresentation {
+    let source: String
+    let author: String?
+    let title: String
+    let url: String
+    let urlToImage: String?
+    let publishedAt: String
+    
+    init(source: String, author: String?, title: String, url: String, urlToImage: String?, publishedAt: String) {
+        self.source = source
+        self.author = author
+        self.title = title
+        self.url = url
+        self.urlToImage = urlToImage
+        self.publishedAt = publishedAt
+    }
+    convenience init(topHeadline: THArticleModel) {
+        self.init(source: topHeadline.source.name, author: topHeadline.author, title: topHeadline.title, url: topHeadline.url, urlToImage: topHeadline.urlToImage, publishedAt: topHeadline.publishedAt)
+    }
+}
+
+extension TopHeadlinePresentation: Equatable {
+    static func == (lhs: TopHeadlinePresentation, rhs: TopHeadlinePresentation) -> Bool {
+        return lhs.author == rhs.author && lhs.source == rhs.source && lhs.publishedAt == rhs.publishedAt && lhs.title == rhs.title && lhs.url == rhs.url && lhs.urlToImage == rhs.urlToImage
+
+    }
+    
+    
+}
+
+struct TopHeadlinePresentationSection {
+    var items: [TopHeadlinePresentation]
+}
+
+extension TopHeadlinePresentationSection: SectionModelType {
+    init(original: TopHeadlinePresentationSection, items: [TopHeadlinePresentation]) {
+        self = original
+        self.items = items
+    }
+}

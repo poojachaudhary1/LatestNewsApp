@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 3322,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Tasnim News Agency"
+            },
+            "author": "Tasnim News Agency",
+            "title": "",
+            "description": "TEHRAN (Tasnim) – An international team of astronomers just released a remarkable map of the night sky without a single star, but which is instead filled with 25,000 supermassive black holes.",
+            "url": "https://www.tasnimnews.com/en/news/2022/01/04/2638571/new-map-reveals-25-000-supermassive-black-holes-in-night-sky",
+            "urlToImage": "/Static/img/tasnim-main-logo.jpg",
+            "publishedAt":"2022-01-04T14:16:00Z",
+            "content": "We know what you're thinking. How is that possible if black holes don't radiate light? That's only half right though. The black hole itself is more or less invisible, but if it's munching on a star o… [+2791 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thomas Ricker"
+            },
+            "author": "Thomas Ricker",
+            "title": "JBL’s latest portable speakers bring the light show - The Verge",
+            "description": "JBL’s portable Pulse 5 and more powerful PartyBox Encore feature integrated lightshows, while the new BoomBox 3 brings chest-thumping bass. All three should arrive this summer",
+            "url": "https://www.theverge.com/2022/1/4/22858138/jbl-pulse-5-boombox-3-partybox-encore-price-dates",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/X-HpShzUQM3LSGaYt9oYJCYBwZM=/0x236:3276x1951/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23131837/JBL_Pulse_5_Lifestyle_Image_1.jpg",
+            "publishedAt": "2022-01-04T14:00:00Z",
+            "content": "While BoomBox 3 brings the boom\r\nThe JBL Pulse 5 brings a portable light show.\r\nToday JBL is taking the wraps off three new portable speakers. The diminutive Pulse 5 and more powerful PartyBox Encore… [+1765 chars]"
+        }
+    ]
+}
